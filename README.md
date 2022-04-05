@@ -13,4 +13,3 @@ Solidity, BlockChain Technology, JavaScript/Typescript, Python, React, HTML, CSS
 - 📫 How to reach me: godswilludoh@gmail.com
 - 😄 Pronouns: He/Him 🕴🏼
 - ⚡ Fun fact: When I'm not debugging code or learning new concepts, you can find me surfing the web, binge-watching my favorite Netflix shows, or streaming videos on YouTube.
--->
