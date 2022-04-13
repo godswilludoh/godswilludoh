@@ -1,6 +1,9 @@
 ### Hi, I'm Godswill, a Software Developer 👋🏼
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godswilludoh)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godswilludoh)](https://git.io/streak-stats)
+   <br>
+   <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godswilludoh&layout=compact&card_width=445)](https://github.com/godswilludoh/github-readme-stats)
 
 Why should you be interested in Godswill you may ask? 🤗:
 Solidity, BlockChain Technology, JavaScript/Typescript, Python, React, HTML, CSS, SCSS, Tailwind CSS, Git.
